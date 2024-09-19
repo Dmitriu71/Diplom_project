@@ -1,6 +1,7 @@
 # Дипломный проект профессии «Python-разработчик: расширенный курс»
 
 • [Задание дипломного проекта](https://github.com/netology-code/python-final-diplom/tree/master)
+
 • [Документация в Postman](https://web.postman.co/workspace/4be44495-faf4-427d-838f-eb228f1fc68e/collection/38083341-b41aeead-3f76-4fe4-b282-6cb26abc8d87)
 
 # Описание веб-приложения
